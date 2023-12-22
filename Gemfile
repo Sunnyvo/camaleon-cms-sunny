@@ -10,8 +10,7 @@ gem 'selenium-webdriver'
 gem 'capybara-screenshot'
 
 gem 'rspec_junit_formatter'
-gem 'cama_contact_form', git: 'https://github.com/Sunnyvo/cama_contact_form_sunny'
-# s.add_dependency 'cama_contact_form', :github => 'Sunnyvo/cama_contact_form_sunny'
+
 gem 'factory_bot_rails'
 gem 'faker'
 gem 'puma'

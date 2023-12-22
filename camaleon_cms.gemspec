@@ -38,6 +38,8 @@ Gem::Specification.new do |s|
   s.add_dependency 'will_paginate'
   s.add_dependency 'will_paginate-bootstrap'
 
+  s.add_dependency 'cama_contact_form', '~> 0.1.0'
+  # s.add_dependency 'cama_contact_form', github: 'https://github.com/Sunnyvo/cama_contact_form_sunny'
   s.add_dependency 'cama_meta_tag'
 
   # MEDIA MANAGER
