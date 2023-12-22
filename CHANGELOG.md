@@ -18,7 +18,7 @@
 - Fix canonical URLs for translated sites
 - Lint Ruby using RuboCop
 - Lint JS using ESLint
-- Use cama_contact_form v. 0.1.0
+- Use cama_contact_form Sunny edit
 - Migrate CoffeeScript files to JS
 - Do not redundantly compile default theme assets
 - Remove temporary dependencies

@@ -5,7 +5,7 @@ gem 'rails', '>= 5.2'
 gem 'camaleon_cms', git: 'https://github.com/owen2345/camaleon-cms'
 
 ### already dependency of main framework, only here to use latest git source
-gem 'cama_contact_form', git: 'https://github.com/owen2345/cama_contact_form'
+gem 'cama_contact_form', git: 'https://github.com/Sunnyvo/cama_contact_form_sunny'
 gem 'cama_meta_tag', git: 'https://github.com/owen2345/camaleon-cms-seo'
 ### dependency end
 

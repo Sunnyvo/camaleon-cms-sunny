@@ -66,7 +66,7 @@ http://camaleon.tuzitio.com/store/plugins
 * Content Cache (Included By Default)
 * Web Attack Control (Included By Default)
 * Post Visibility (Included By Default)
-* Contact Forms (Included By Default) - https://github.com/owen2345/cama_contact_form
+* Contact Forms (Included By Default) - 'https://github.com/Sunnyvo/cama_contact_form_sunny'
 * SEO (Included By Default) - https://github.com/owen2345/camaleon-cms-seo
 * E-commerce - https://github.com/owen2345/camaleon-ecommerce
 * Language / Translation Editor - https://github.com/owen2345/camaleon-cms-language-editor
